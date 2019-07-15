@@ -1,7 +1,5 @@
 ## Welcome to GitHub Pages
 
-小肥猪 哈哈哈哈
-
 You can use the [editor on GitHub](https://github.com/whj1121/wuhaojie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -16,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+哈哈哈哈哈 小肥猪
 
 - Bulleted
 - List
